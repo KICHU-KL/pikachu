@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *Creator number : wa.me/919567321848?text=Hi*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 *Githublink (Setup)  :    https://github.com/KICHU***/pikachu*
-*Find the stars☝😌
+*Find the stars* ☝😌
 *Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 *Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 `}) 
