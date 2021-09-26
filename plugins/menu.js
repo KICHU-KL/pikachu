@@ -17,10 +17,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`,{ responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️kichu✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💫𝐊𝐢𝐜𝐡𝐮💫━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 pikachu 𝐛𝐨𝐭 by kichu.
+𝐇𝐞𝐥𝐥𝐨👋 ɪ ᴀᴍ ᴀ ᴘɪᴋᴀᴄʜᴜ 𝐛𝐨𝐭 by kichu.
             *Pikachu*
 
 ■□■□■□■□■□■□■□■□■□■□
