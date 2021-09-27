@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/KICHU-KL/pikachu">KICHU-KL</a> to
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kichu&show_icons=true&theme=dark&locale=en" alt="KICHU-KL" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KICHU-KL&theme=dark" alt="KICHU-KL" /></p>
 </p>
 
 
