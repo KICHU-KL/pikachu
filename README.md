@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/KICHU-KL/pikachu">KICHU-KL</a> to
 
 ----
 
-<h3 align="center">Contact Me:</h1>
+<h3 align="center">PIKACHU:</h1>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="10" width="10" /></a>
 </p>
