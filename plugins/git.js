@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is 𝙺ͥ𝚒ͭ𝚌ᷤ𝚑ͫ𝚞ͤ*
 *Creator number : wa.me/919567321848?text=Hi*
 
-*Githublink (Setup)  :    https://github.com/KICHU***/pikachu*
+*Githublink (Setup)  :  https://github.com/KICHU***/pikachu*
 *Find the stars* ☝😌
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
            
