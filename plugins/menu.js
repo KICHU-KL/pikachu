@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💫𝐊𝐢𝐜𝐡𝐮💫━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 ɪ ᴀᴍ ᴀ ᴘɪᴋᴀᴄʜᴜ 𝐛𝐨𝐭 by kichu.
-            *Pikachu*
+𝐇𝐞𝐥𝐥𝐨👋 *ɪ ᴀᴍ ᴘɪᴋᴀᴄʜᴜ 𝐛𝐨𝐭 ʙʏ ᴋɪᴄʜᴜ*✨.
+              *ℙ𝕚𝕜𝕒𝕔𝕙𝕦*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -45,7 +45,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -gif 
 🍙𝙐𝙨𝙚➜ Converts video to gif.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -tomp3 
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -mp4audio 
 🍙𝙐𝙨𝙚➜ Converts video into audio.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -say <text>
@@ -127,7 +127,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
 🍙𝙐𝙨𝙚➜ Converts img/gif into a sticker.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -photo 
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -imagesticker
 🍙𝙐𝙨𝙚➜ Converts sticker into image.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
