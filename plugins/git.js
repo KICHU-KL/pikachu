@@ -21,11 +21,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is 𝙺ͥ𝚒ͭ𝚌ᷤ𝚑ͫ𝚞ͤ*
 *Creator number : wa.me/919567321848?text=Hi*
 
-*Githublink (Setup)  :    https://github.com/KICHU***/pikachu*
+*Githublink (Setup)*  :       https://github.com/KICHU***/pikachu
 *Find the stars* ☝😌
+ 𝗧𝗿𝘆 𝘁𝗵𝗶𝘀 *:https://github.com/ameer-kallumthodi/pikachu*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
            
-           𝗣𝗶𝗸𝗮𝗰𝗵𝘂 𝗕𝗼𝘁 𝗯𝘆 𝗞𝗶𝗰𝗵𝘂
+         𝗣𝗶𝗸𝗮𝗰𝗵𝘂 𝗕𝗼𝘁 𝗯𝘆 𝗞𝗶𝗰𝗵𝘂
 `}) 
 
 }));
