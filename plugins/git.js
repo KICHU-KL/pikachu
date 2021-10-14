@@ -5,20 +5,12 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var r_text = new Array ();
-    
-    
-   
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
-    
-    
-    var i = Math.floor(1*Math.random())
+    var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is 𝙺ͥ𝚒ͭ𝚌ᷤ𝚑ͫ𝚞ͤ*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot by 𝙺ͥ𝚒ͭ𝚌ᷤ𝚑ͫ𝚞ͤ*
 *Creator number : wa.me/919567321848?text=Hi*
 
 *Githublink (Setup)*  :     https://github.com/KICHU***/Pikachu
